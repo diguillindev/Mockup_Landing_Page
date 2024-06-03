@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('img/landing_img_backround.jpg'); /* Replace with your actual background image */
+    background-image: url('landing_img_backround.jpg'); /* Replace with your actual background image */
     background-size: cover;
     background-position: center;
 }
